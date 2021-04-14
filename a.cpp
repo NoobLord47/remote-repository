@@ -6,4 +6,5 @@ int main(){
     cin>>a;
     cout<<a<<endl;
     cout<<"hello world"<<endl;
+    cout<<"some code"<<endl;
 }
